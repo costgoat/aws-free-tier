@@ -67,7 +67,7 @@ These limits reset monthly and never expire. Available to all account types.
 | **Aurora DSQL** | 100K Distributed Processing Units + 1 GB storage/mo | Serverless PostgreSQL |
 | **Budgets** | 2 action-enabled budgets free | Cost management alerts |
 | **CloudFormation** | 1,000 handler operations/mo | IaC; pay for resources created |
-| **CloudFront** | 1 TB data out + 10M requests/mo | CDN |
+| **CloudFront** | 1 TB data out + 10M requests/mo | CDN; also separate Free Plan (3 dists, 1M req/mo, hard cap) |
 | **CloudTrail** | 1 trail + 90-day event history | Management events only |
 | **CloudWatch** | 10 metrics + 10 alarms + 5 GB logs + 1M API requests | Plus 3 dashboards |
 | **CodeBuild** | 100 build min/mo (general1.small) | Plus 6K Lambda build seconds |
