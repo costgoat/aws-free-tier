@@ -199,7 +199,7 @@ AWS has removed these services' classic per-service free-tier limits (in or sinc
 | **Amazon CloudSearch** | No service-specific free tier published |
 | **Amazon Connect** | No per-service allotment; quote-based pricing page |
 | **Amazon GameLift** | No dedicated free-tier allotment |
-| **AWS Billing Conductor** | AWS-managed pricing plans are free; customer-managed use is trial-only (both free through May 31, 2026 promo) |
+| **AWS Billing Conductor** | AWS-managed pricing plans are free; customer-managed plans cost $50 per AWS Organization/month, with a 2-month free trial for new customers |
 | **Amazon EC2** | Classic 12-month: 750 hrs/mo t2.micro or t3.micro |
 | **Amazon S3** | Classic 12-month: 5 GB Standard + 20K GET + 2K PUT/mo (plus S3 Glacier 10 GB retrieval) |
 | **Amazon Simple Email Service (SES)** | Classic 12-month: 3,000 messages/mo (62K when sent from EC2) |
